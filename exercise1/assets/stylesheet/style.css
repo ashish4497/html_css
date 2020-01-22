@@ -48,21 +48,39 @@ table {
 }
 
 body {
-	background-color:rgb(192, 59, 59);
+	background-color: yellowgreen;
 }
+
 header{
-	background-color: aquamarine;
+	background-color:gold;
 }
 
 h1{
-	font-size: 18px;
+	font-size: 24px;
 	text-transform: uppercase;
 	text-align: center;
-	color: white;
+}
+
+h2{
+	font-size: 26px;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+p{ 
+	font-size: 18px;
+	color:white;
 }
 
 nav {
 	text-align: center;
+}
+
+a{
+	font-size: 20px;
+	color:royalblue;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 footer {
@@ -72,4 +90,6 @@ footer {
 
 footer p {
 	 color: white;
+	 text-align: center;
+	 font-size: 16px;
  }
