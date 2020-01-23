@@ -68,10 +68,13 @@ nav a {
 	margin: 0 auto;
 }
 
-.date{
+time{
 	text-transform: uppercase;
 	color: blue;
 	font-size: 18px;
+	
+}
+.display-time{
 	padding: 10px 0;
 }
 
